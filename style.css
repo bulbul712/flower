@@ -1,0 +1,149 @@
+.fit{
+    background-color: #f4d8de;
+    height: 500px;
+    margin: 0px;
+}
+.upper-part{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.upper-part img{
+    width: 58.6%;
+}
+.size{
+    font-size:50px;
+}
+.but{
+    text-decoration: none;
+    background-color: #E55473;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.middle{
+    text-align: center;
+}
+.unfit{
+    margin-top: 50px;
+}
+.line{
+    display: flex;
+    margin-left:70px;
+}
+.image{
+    background-color:#ffd2e8;
+    margin: 35px;
+    padding: 10px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+}
+.image1{
+    background-color: #bef1f4;
+    margin:35px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+    padding: 10px;
+}
+.image2{
+    background-color: #d6f7b6;
+    margin: 35px;
+    border-top-left-radius: 300px;
+    border-top-right-radius: 300px;
+}
+.low-fit{
+    background-color: #f4d8de;
+    height:400px;
+    margin: 0px;
+}
+.lower{
+    width: 40%;
+    float: left;
+    margin-left:5%;
+    padding-left:2%;
+    align-items: center;
+    margin-top: 50px;
+}
+.lower img{
+    width:40%;
+}
+.bt{
+    text-decoration: none;
+    background-color: #E55473;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.off{
+    color: #E55473;
+}
+.part{
+    text-align: center;
+}
+.pic{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.dis{
+    margin: 10px;
+    max-width: 100%;
+    height: auto;
+}
+.write{
+    text-align: center;
+}
+.finish{
+    text-align: center;
+    margin-top: 70px;
+    background-image:url(./flower-shop-assignment/Rectangle\ 9.png);
+    width: 1440px;
+     height: 449px;
+    flex-shrink: 0;
+    background-repeat: no-repeat;
+    border: #bef1f4;
+}
+.task{
+    width: 700px;
+    height: 45px;
+    flex-shrink: 0;
+}
+.ta{
+    text-decoration: none;
+    background-color: #E55473;
+    padding: 10px 20px;
+    border-radius: 5px;
+    height: 45px;
+    color: white;
+}
+.flo{
+color: #E55473;  
+}
+.end{
+    background-color: rgb(24, 22, 22);
+    color:white;
+    text-align: center;
+}
+.c{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.image img{
+    max-width: 100%;
+    height: auto;
+}
+
+.image figcaption {
+    display: flex;
+        font-size: 14px;
+        margin-top: 10px;      
+}
+.image-line{
+  font-size: 14px;
+  text-align: center;
+  margin-top: 10px;
+}
